@@ -1,7 +1,9 @@
 # Create a new file in this fashion
 
-* Got to your user account in GitHub
-* Click on an existing repository
-* Click on the + sign next to it
-* THis opens a dialog where the new file can be named
-* Text cna be entered into this file too
+* Go to your user account in GitHub, https://github.com/"Your user Name"
+* Click on an existing repository that you have such as datasciencecoursera or whatever
+* The window refreshes showing files in the repo etc.
+* Click on the + sign next to the repo name
+* This opens a dialog where the new file can be named and edited
+* Text can be entered into this file too
+* This file is saved as a .md file
